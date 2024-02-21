@@ -22,6 +22,6 @@ I'm open to collaborations and discussions. Feel free to reach out to me on Link
 I'm eager to collaborate on exciting web development projects. If you have an interesting project or idea, don't hesitate to get in touch!
 
 ## 📈 GitHub Stats
-[![Saptarshe's GitHub Stats]](https://github.com/saptarshe-sinha)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshe-sinha&show_icons=true&locale=en" alt="saptarshe-sinha" /></p>
 
 Thanks for stopping by! Feel free to explore my repositories and drop a star if you find something interesting. Happy coding! 🚀
