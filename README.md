@@ -1,8 +1,9 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Saptarshe Sinha, and I'm passionate about web development and data structures and algorithms (DSA). Currently, I'm diving deep into the world of Next.js to enhance my skills and build amazing web applications.
+Welcome to my GitHub profile! I'm Saptarshe Sinha, a passionate individual with a keen interest in Web Development and Data Structures & Algorithms (DSA). Currently, I'm on a thrilling journey at the crossroads of Web Development where I'm creating engaging & responsive web applications while constantly honing my propblem-solving skills through DSA challenges. My code tells a story, where creativity meets logic, resulting in captivating web applications and problem-solving skills.
 
 ## 🔧 Technologies & Tools
+- Python, Java
 - HTML, CSS, JavaScript
 - React.js
 - Next.js
@@ -22,6 +23,7 @@ I'm open to collaborations and discussions. Feel free to reach out to me on Link
 I'm eager to collaborate on exciting web development projects. If you have an interesting project or idea, don't hesitate to get in touch!
 
 ## 📈 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saptarshe-sinha&show_icons=true&locale=en&layout=compact" alt="saptarshe-sinha" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshe-sinha&show_icons=true&locale=en" alt="saptarshe-sinha" /></p>
 
 Thanks for stopping by! Feel free to explore my repositories and drop a star if you find something interesting. Happy coding! 🚀
