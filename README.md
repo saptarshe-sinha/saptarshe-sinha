@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there !! 👋
 
 Welcome to my GitHub profile! I'm Saptarshe Sinha, a passionate individual with a keen interest in Web Development and Data Structures & Algorithms (DSA). Currently, I'm on a thrilling journey at the crossroads of Web Development where I'm creating engaging & responsive web applications while constantly honing my propblem-solving skills through DSA challenges. My code tells a story, where creativity meets logic, resulting in captivating web applications and problem-solving skills.
 
