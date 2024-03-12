@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm Saptarshe Sinha, a passionate individual with 
 ## 🔧 Technologies & Tools
 - Python, Java
 - HTML, CSS, JavaScript
+- TypeScript
 - React.js
 - Next.js
 - Node.js
